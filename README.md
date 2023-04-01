@@ -10,6 +10,8 @@ Reach out to benjamin@ndricks.com to discuss your business' sports data needs.
 
 Benjamin Hendricks recently published his master's thesis titled [Sports Analytics with Natural Language Processing: Using Crowd Sentiment to Pick Winners in Fantasy Football](https://dash.harvard.edu/handle/1/37371598) is the foundational architecture we use to create our custom APIs. By retrieving data from a variety of sources (social media APIs, scraping, etc), we then process these raw inputs with the help of AI to produce valuable, condensed data you can use.
 
+ndricks is currently run solely by Benjamin Hendricks in his spare time outside of his LinkedIn day job. Rest assured, though, that delivery of a new custom API can still happen fast -- we'll even build in penalties for delays into our contracts! For more background about Benjamin Hendricks, please see [his LinkedIn profile](https://www.linkedin.com/in/benjaminwhendricks/).
+
 ### Use Cases
 
 #### Fantasy Football Projections
