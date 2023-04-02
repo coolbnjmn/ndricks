@@ -2,12 +2,10 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: post
+layout: default
 permalink: /home/
 ---
 
-<!DOCTYPE html>
-<html lang="en">
 <script src="https://cdn.jsdelivr.net/ga-lite/latest/ga-lite.min.js" async></script>
 <script>
 var galite = galite || {};
@@ -58,10 +56,10 @@ galite.UA = 'UA-64450558-1';
       <a class="uk-navbar-brand uk-hidden-small" href="#">ndricks software</a>
         <ul class="uk-navbar-nav uk-hidden-small">
             <li class="uk-active">
-                <a href="./default.html">Home</a>
+                <a href="/home/">Home</a>
             </li>
             <li>
-                <a href="./portfolio.html">Portfolio</a>
+                <a href="/portfolio/">Portfolio</a>
             </li>
         </ul>
         <a href="#offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
@@ -139,17 +137,15 @@ galite.UA = 'UA-64450558-1';
         <div class="uk-offcanvas-bar">
             <ul class="uk-nav uk-nav-offcanvas">
                 <li>
-                    <a href="coolbnjmn.github.io/ndricks/default.html">Home</a>
+                    <a href="/home/"">Home</a>
                 </li>
                 <li>
-                    <a href="coolbnjmn.github.io/ndricks/portfolio.html">Portfolio</a>
+                    <a href="/portfolio/">Portfolio</a>
                 </li>
             </ul>
         </div>
     </div>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.27.4/css/uikit.almost-flat.min.css" />
-</body>
-</html>
 
 
 <!-- <!doctype html>
