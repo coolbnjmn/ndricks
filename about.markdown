@@ -54,10 +54,10 @@ galite.UA = 'UA-64450558-1';
       <a class="uk-navbar-brand uk-hidden-small" href="/">ndricks software</a>
         <ul class="uk-navbar-nav uk-hidden-small">
             <li>
-                <a href="/">Home</a>
+                <a href="/ndricks/">Home</a>
             </li>
             <li class="uk-active">
-                <a href="/portfolio/">Portfolio</a>
+                <a href="/ndricks/portfolio/">Portfolio</a>
             </li>
         </ul>
         <a href="#offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
@@ -274,10 +274,10 @@ galite.UA = 'UA-64450558-1';
         <div class="uk-offcanvas-bar">
             <ul class="uk-nav uk-nav-offcanvas">
                 <li>
-                    <a href="/">Home</a>
+                    <a href="/ndricks/">Home</a>
                 </li>
                 <li>
-                    <a href="/portfolio/">Portfolio</a>
+                    <a href="/ndricks/portfolio/">Portfolio</a>
                 </li>
             </ul>
         </div>
