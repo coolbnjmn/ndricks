@@ -146,6 +146,8 @@ galite.UA = 'UA-64450558-1';
         </div>
     </div>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.27.4/css/uikit.almost-flat.min.css" />
+</div>
+</body>
 
 
 <!-- <!doctype html>
