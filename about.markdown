@@ -51,7 +51,7 @@ galite.UA = 'UA-64450558-1';
 <body>
   <div class="uk-container uk-container-center uk-margin-top uk-margin-large-bottom">
     <nav class="uk-navbar uk-margin-large-bottom">
-      <a class="uk-navbar-brand uk-hidden-small" href="/">ndricks software</a>
+      <a class="uk-navbar-brand uk-hidden-small" href="/ndricks/">ndricks software</a>
         <ul class="uk-navbar-nav uk-hidden-small">
             <li>
                 <a href="/ndricks/">Home</a>
