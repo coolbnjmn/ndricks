@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-permalink: /home/
+permalink: /
 ---
 
 <script src="https://cdn.jsdelivr.net/ga-lite/latest/ga-lite.min.js" async></script>
@@ -56,7 +56,7 @@ galite.UA = 'UA-64450558-1';
       <a class="uk-navbar-brand uk-hidden-small" href="#">ndricks software</a>
         <ul class="uk-navbar-nav uk-hidden-small">
             <li class="uk-active">
-                <a href="/home/">Home</a>
+                <a href="/">Home</a>
             </li>
             <li>
                 <a href="/portfolio/">Portfolio</a>
@@ -137,7 +137,7 @@ galite.UA = 'UA-64450558-1';
         <div class="uk-offcanvas-bar">
             <ul class="uk-nav uk-nav-offcanvas">
                 <li>
-                    <a href="/home/"">Home</a>
+                    <a href="/"">Home</a>
                 </li>
                 <li>
                     <a href="/portfolio/">Portfolio</a>
