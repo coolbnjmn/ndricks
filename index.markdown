@@ -148,26 +148,3 @@ galite.UA = 'UA-64450558-1';
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.27.4/css/uikit.almost-flat.min.css" />
 </div>
 </body>
-
-
-<!-- <!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>The title</title>
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,700" media="all">
-  </head>
-  <body>
-<h1><a href="/">ndricks</a></h1>
-    <div class="content">
-      {{ content }}
-    </div>
-    <footer>
-      <div class="container">
-        [benjamin@ndricks.com](benjamin@ndricks.com)
-      </div>
-    </footer>
-  </body>
-</html> -->
